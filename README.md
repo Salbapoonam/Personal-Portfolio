@@ -35,12 +35,3 @@
 
 
 
-# Coffe Shop Website template 
-![image](https://user-images.githubusercontent.com/97495345/206884291-75026755-00ee-423d-a2af-7f8b05412856.png)
-![image](https://user-images.githubusercontent.com/97495345/206884297-04d385e1-1e04-410c-ba59-88d917627c8b.png)
-![image](https://user-images.githubusercontent.com/97495345/206884303-c36af6ee-bae4-4035-acfe-fe87de3f81ab.png)
-![image](https://user-images.githubusercontent.com/97495345/206884312-06e016ee-0404-4bd2-90e8-331d30134583.png)
-![image](https://user-images.githubusercontent.com/97495345/206884316-742581ff-c03b-4dc7-8d18-858dcad275d2.png)
-![image](https://user-images.githubusercontent.com/97495345/206884321-afba8a7f-823a-4f65-ae6c-90f5b74197a0.png)
-![image](https://user-images.githubusercontent.com/97495345/206884328-45b3fa43-2496-47c2-ad64-6e323494507e.png)
-![image](https://user-images.githubusercontent.com/97495345/206884337-931f7013-b352-4dde-9015-88daf5ca4625.png)
